@@ -10,7 +10,7 @@ seinfeld_locations = [
         "lon": -73.97536769988461,
         "address": "129 W 81st St, Apartment 5A, New York, NY",
         #"image": "http://localhost:8000/images/JerryApt.jpeg",
-        "image": "images/JerryApt.jpeg",
+        "image": "https://alexandersuglio.github.io/StreetSeins/images/JerryApt.jpeg",
         "blurb": "This is the real-life building used for exterior shots of Jerry’s apartment. In the show, it’s supposedly on the Upper West Side."
     },
 
@@ -20,7 +20,7 @@ seinfeld_locations = [
         "lon": -73.97517536649656,
         "address": "129 W 81st St, Apartment 5B, New York, NY",
         #"image": "http://localhost:8000/images/KramerApt.jpeg",
-        "image": "images/KramerApt.jpeg",
+        "image": "https://alexandersuglio.github.io/StreetSeins/images/KramerApt.jpeg",
         "blurb": "Home to the reverse peephole, the garbage disposal shower, and the final taping location of 'The Merv Griffin Show', directly across the hall from Jerry."
     },
 
@@ -30,7 +30,7 @@ seinfeld_locations = [
         "lon":-73.97556560187662,
         "address": "120 W 81st St (estimated), New York, NY",
         #"image": "http://localhost:8000/images/KennyRogersChicken.jpeg",
-        "image": "images/KennyRogersChicken.jpeg",
+        "image": "https://alexandersuglio.github.io/StreetSeins/images/KennyRogersChicken.jpeg",
         "blurb": "A Kenny Rogers' Roasters Chicken restaurant opens across the street from Jerry and Kramer's building. Complete with a gigantic red neon chicken atop the roof which beams directly into Kramer's apartment."
     },
     
@@ -40,7 +40,7 @@ seinfeld_locations = [
         "lon": -73.965441,
         "address": "2880 Broadway, New York, NY",
         #"image": "http://localhost:8000/images/CoffeeShop.jpeg",
-        "image": "images/CoffeeShop.jpeg",
+        "image": "https://alexandersuglio.github.io/StreetSeins/images/CoffeeShop.jpeg",
         "blurb": "The iconic diner where Jerry, George, Elaine, and Kramer frequently meet. Known in real life as Tom’s Restaurant."
     },
         {
@@ -49,7 +49,7 @@ seinfeld_locations = [
         "lon": -73.98500770399465,
         "address": "323 5th Ave, New York, NY",
         #"image": "http://localhost:8000/images/ChineseRestaurant.jpeg",
-        "image": "images/ChineseRestaurant.jpeg",
+        "image": "https://alexandersuglio.github.io/StreetSeins/images/ChineseRestaurant.jpeg",
         "blurb": "The infamous spot where the gang waited endlessly for a table."
     },
         {
@@ -58,7 +58,7 @@ seinfeld_locations = [
         "lon": -73.9914,
         "address": "358 W 44th St, New York, NY",
         #"image": "http://localhost:8000/images/Improv.jpeg",
-        "image": "images/Improv.jpeg",
+        "image": "https://alexandersuglio.github.io/StreetSeins/images/Improv.jpeg",
         "blurb": "The Improv Comedy Club serves as the spot where Jerry shares his observations about nothing with the world. Also famous for being the location where nearly every Seinfeld episode begins."
     },
     {
@@ -67,7 +67,7 @@ seinfeld_locations = [
         "lon": -73.9108724,
         "address": "22-37 37th St, Queens, NY",
         #"image": "http://localhost:8000/images/ConstanzaHouse.jpeg",
-        "image": "images/ConstanzaHouse.jpeg",
+        "image": "https://alexandersuglio.github.io/StreetSeins/images/ConstanzaHouse.jpeg",
         "blurb": "The Queens-based home of George’s eccentric parents, Frank and Estelle. Site of many legendary shouting matches."
     },
     {
@@ -76,7 +76,7 @@ seinfeld_locations = [
         "lon": -73.981740,
         "address": "259 W 55th St, New York, NY",
         #"image": "http://localhost:8000/images/SoupNazi.jpeg",
-        "image": "images/SoupNazi.jpeg",
+        "image": "https://alexandersuglio.github.io/StreetSeins/images/SoupNazi.jpeg",
         "blurb": "Inspired by a real soup stand, this is where the infamous Soup Nazi yelled 'No soup for you!'"
     },
     {
@@ -85,7 +85,7 @@ seinfeld_locations = [
         "lon": -73.926175,
         "address": "1 E 161st St, Bronx, NY",
         #"image": "http://localhost:8000/images/GeorgeWork.jpeg",
-        "image": "images/GeorgeWork.jpeg",
+        "image": "https://alexandersuglio.github.io/StreetSeins/images/GeorgeWork.jpeg",
         "blurb": "George worked for the New York Yankees under George Steinbrenner. Hilariously unqualified for most of his duties."
     },
 ]
