@@ -71,6 +71,34 @@ seinfeld_locations = [
         "blurb": "The Queens-based home of George’s eccentric parents, Frank and Estelle. Site of many legendary shouting matches."
     },
     {
+        "name": "Paisano's Pizza",
+        "lat": 40.73068669250866,
+        "lon": -74.00190646908185,
+        "address": "7 Carmine St, New York, NY",
+        #"image": "http://localhost:8000/images/PaisanosPizza.jpeg",
+        "image": "https://alexandersuglio.github.io/StreetSeins/images/PaisanosPizza.jpeg",
+        "blurb": "Pizzeria where George bought himself and Mr. Steinbrenner calzones until being banned from the store after being caught emptying the tip jar."
+    },
+    {
+        "name": "Nexus of the Universe",
+        "lat": 40.72339920606251,
+        "lon": -73.98840737449171,
+        "address": "East 1st Street &, 1st Ave, New York, NY",
+        #"image": "http://localhost:8000/images/NexusOfUniverse.jpeg",
+        "image": "https://alexandersuglio.github.io/StreetSeins/images/NexusOfUniverse.jpeg",
+        "blurb": "Located deep downtown, spot where the same street intersects with itself."
+    },
+    {
+        "name": "George's House in the Hamptons",
+        "lat": 41.0712212003619,
+        "lon": -71.8554901136782,
+        "address": "Easternmost Point of Long Island",
+        #"image": "http://localhost:8000/images/HamptonsGeorge.jpeg",
+        "image": "https://alexandersuglio.github.io/StreetSeins/images/HamptonsGeorge.jpeg",
+        "blurb": "Location of George's fictional house."
+    },
+
+    {
         "name": "Soup Nazi's Restaurant",
         "lat": 40.761581,
         "lon": -73.981740,
@@ -88,6 +116,8 @@ seinfeld_locations = [
         "image": "https://alexandersuglio.github.io/StreetSeins/images/GeorgeWork.jpeg",
         "blurb": "George worked for the New York Yankees under George Steinbrenner. Hilariously unqualified for most of his duties."
     },
+
+
 ]
 
 # Create the NYC map
